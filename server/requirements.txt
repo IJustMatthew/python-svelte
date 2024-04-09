@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.3
+Flask==3.0.2
+Flask_Cors==4.0.0
+pytube==15.0.0
+replicate==0.25.1
+selenium==4.19.0

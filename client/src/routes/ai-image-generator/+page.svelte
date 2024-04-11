@@ -64,7 +64,7 @@
 
 <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
 	<div class="my-2">
-		<h1 class="text-2xl lg:text-3xl font-bold">AI Chatbot</h1>
+		<h1 class="text-2xl lg:text-3xl font-bold">AI Image Generator</h1>
 		<p class="max-w-[500px]">Generate images with stable-diffusion AI.</p>
 
 		<form class="w-full my-6 space-y-2">
